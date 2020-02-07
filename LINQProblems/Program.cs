@@ -10,6 +10,11 @@ namespace LINQProblems
     {
         static void Main(string[] args)
         {
+            //ProblemOne problemOne = new ProblemOne();
+            //problemOne.FindSubString();
+            ProblemTwo problemTwo = new ProblemTwo();
+            problemTwo.CopyString();
+            
         }
     }
 }
