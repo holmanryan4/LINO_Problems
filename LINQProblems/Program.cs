@@ -12,9 +12,11 @@ namespace LINQProblems
         {
             //ProblemOne problemOne = new ProblemOne();
             //problemOne.FindSubString();
-            ProblemTwo problemTwo = new ProblemTwo();
-            problemTwo.CopyString();
-            
+            //ProblemThree problemThree = new ProblemThree();
+            //problemThree.DropLowestNumber();
+            //problemThree.GetAverageOfAverage();
+            ProblemFour problemFour = new ProblemFour();
+            problemFour.OrderedString();
         }
     }
 }
